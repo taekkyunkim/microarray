@@ -12,7 +12,7 @@ BiocManager::install("circlize")
 rm(list=ls())
 
 # 2. Set working directory
-setwd('H:/FunctionalStudy_miR_3170')  #######  specify the working directory which includes input data files
+setwd('XXXXXXXXX')  #######  specify the working directory which includes input data files
 path <- getwd()
 
 # 3. Call libraries to be needed for analysis
